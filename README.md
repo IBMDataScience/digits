@@ -16,11 +16,7 @@
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/proj-with-tweets.png"/>
  
-2. Click on From URL (3rd tab), choose a name for your notebook (ex: "Digits"), copy and paste this url ????
-
-**https://github.com/IBMDataScience/word2vec/blob/master/Spark-based%20machine%20learning%20for%20word%20meanings.ipynb** into the Notebook URL rectangle and finally click on Create Notebook.
-
-???? NEED TO CHANGE URL
+2. Click on From URL (3rd tab), choose a name for your notebook (ex: "Digits"), copy and paste this url **https://github.com/IBMDataScience/digits/blob/master/Handwritten%20Digits.ipynb** into the Notebook URL rectangle and finally click on Create Notebook.
 
  >  <img src="https://github.com/IBMDataScience/word2vec/blob/master/images/create-notebook.png"/>
  

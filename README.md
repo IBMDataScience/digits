@@ -1,18 +1,18 @@
 # Handwritten Digit Recognition Via Classification
 
 ## Data source: sklearn data sets
-## Algorithms: (support vector machines) SVM
+## Algorithms: support vector machines classifier (SVM)
 ## Tools: IBM Data Science Experience, sklearn
 
 # Instructions:
 
-##Step 1. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
+## Step I. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
 
-##Step 2. In the landing page of DSX, create a project on by clicking on the `New` button on the top right and then click on `Project`. 
+## Step II. In the landing page of DSX, create a project on by clicking on the `New` button on the top right and then click on `Project`. 
 
  >  <img src="https://github.com/IBMDataScience/digits/blob/master/images/landing-create-new-project.png"/>
 
-##Step 3. Get the Notebook
+## Step III. Get the Notebook
 
 1. Go to your project and click on the create new notebook icon
 

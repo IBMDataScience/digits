@@ -6,7 +6,7 @@
 
 # Instructions:
 
-## Step I. If you already have an account on IBM's Data Science Experience, go to Step 2. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
+## Step I. If you already have an account on IBM's Data Science Experience, go to Step II. If not, follow [this tutorial](https://github.com/IBMDataScience/getting-started) to create an account.
 
 ## Step II. In the landing page of DSX, create a project on by clicking on the `New` button on the top right and then click on `Project`. 
 
